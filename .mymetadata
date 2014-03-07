@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="flappyhanson"
+  id="myeclipse.1394176279271"
+  context-root="/flappyhanson"
+  j2ee-spec="5.0"
+  archive="flappyhanson.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
